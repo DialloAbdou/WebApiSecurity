@@ -1,0 +1,2 @@
+wwwroot\app.css
+C:\FormationC#\API\Securites\ProjetSecurite\BlazorApp\BlazorApp.Server\wwwroot\app.css

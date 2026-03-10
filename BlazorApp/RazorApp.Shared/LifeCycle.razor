@@ -1,0 +1,14 @@
+﻿<h3>LifeCycle</h3>
+
+<ul>
+    @foreach (var step in _steps)
+    {
+        <li>@step</li>
+    }
+</ul>
+
+<p>
+    @_apiResponse
+</p>
+<button @onclick="@(()=> _var= "clique!")">Click</button>
+<SubComponent Data="@_var"/>

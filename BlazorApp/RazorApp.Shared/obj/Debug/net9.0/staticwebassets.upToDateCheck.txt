@@ -1,0 +1,3 @@
+wwwroot\background.png
+wwwroot\exampleJsInterop.js
+C:\FormationC#\API\Securites\ProjetSecurite\BlazorApp\RazorApp.Shared\wwwroot\exampleJsInterop.js
